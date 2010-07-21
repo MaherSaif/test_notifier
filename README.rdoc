@@ -41,6 +41,7 @@ Then, install the gem with <tt>sudo gem install test_notifier</tt>
 If you're using Test::Unit you should add <tt>require "test_notifier/test_unit"</tt>
 
 If you're using RSpec you should add <tt>require "test_notifier/rspec"</tt>
+If you're using RSpec 2 you should add <tt>require "test_notifier/rspec2"</tt>
 
 If you're using Autotest you should add <tt>require test_notifier/autotest"</tt> to
 the file <tt>~/.autotest</tt>
